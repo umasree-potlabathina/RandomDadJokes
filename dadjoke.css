@@ -22,10 +22,6 @@ right: 0;
 box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
 }
 
-#joke-container {
-  margin: 5rem;
-}
-
 #joke {
   width: 380px;
   height: 250px;
