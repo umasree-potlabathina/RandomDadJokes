@@ -23,14 +23,14 @@ box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
 }
 
 #joke {
-  width: 380px;
-  height: 250px;
+  width: 320px;
+  height: 300px;
   padding: 10px;
   text-align: center;
   background-color: #fafafa;
   margin: 8rem auto 1.5rem auto;
 
-  font-size: 21px;
+  font-size: 22px;
   box-shadow: 1px 1px 1px 1px rgba(128, 128, 128, 0.247);
 }
 
@@ -41,7 +41,7 @@ box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
     color: rgb(250, 249, 249);
     background-color: black;
 
-    font-size: 18px;
+    font-size: 20px;
     border: none;
     cursor: pointer;
     box-shadow: 2px 2px gray;
