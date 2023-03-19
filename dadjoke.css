@@ -64,3 +64,32 @@ box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
   background-color: black;
   color: #ededee;
 }
+
+/* Dog Button Code */
+
+#dog-button-div {
+  position: fixed;
+  right: 20px;
+  bottom: 80px;
+}
+
+#dog-button {
+  padding: 2px 4px;
+  font-size: 16px;
+
+  border: none;
+  border-radius: 2px;
+  background-color: rgb(227, 234, 241);
+  color: rgb(4, 5, 32);
+
+  box-shadow: 2px 2px 2px rgba(48, 52, 58, 0.562);
+  cursor: pointer;
+}
+
+#dog-button:active {
+  box-shadow: 2px 2px 2px rgb(50, 54, 61);
+}
+
+#arrow {
+  font-size: 20px;
+}
