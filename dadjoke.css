@@ -23,8 +23,8 @@ box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
 }
 
 #joke {
-  width: 320px;
-  height: 300px;
+  width: 85vw;
+  height: 45vh;
   padding: 10px;
   text-align: center;
   background-color: #fafafa;
