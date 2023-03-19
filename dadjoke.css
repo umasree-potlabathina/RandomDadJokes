@@ -70,12 +70,12 @@ box-shadow: 2px 2px 1px rgba(178, 178, 180, 0.582);
 #dog-button-div {
   position: fixed;
   right: 20px;
-  bottom: 100px;
+  bottom: 130px;
 }
 
 #dog-button {
   padding: 2px 4px;
-  font-size: 20px;
+  font-size: 22px;
 
   border: none;
   border-radius: 2px;
